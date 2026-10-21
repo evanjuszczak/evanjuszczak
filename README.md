@@ -14,7 +14,7 @@
 
 - 🔭 Just shipped **[ProofSettle](https://github.com/WillIAMShSp/proofsettle)**, HackGB 2026 Winning Project
 - 🛠️ I like shipping small, useful tools and getting them live on the web
-- 🌱 Always learning — lately: full-stack TypeScript, Supabase, and deployment workflows
+- 🌱 Always learning. Recently: full-stack TypeScript, Supabase, and deployment workflows
 - 💬 Ask me about React, Vite, Tailwind, or building side projects end to end
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/evan-juszczak-3b3812332/)
 
