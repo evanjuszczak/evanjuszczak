@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/evanjuszczak"><img src="https://img.shields.io/github/followers/evanjuszczak?label=Follow&style=social" alt="GitHub followers"></a>
-  <img src="https://komarev.com/ghpvc/?username=evanjuszczak&color=blue&style=flat" alt="Profile views">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=evanjuszczak.evanjuszczak" alt="Profile views">
 </p>
 
 ---
