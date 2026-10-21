@@ -24,9 +24,9 @@
 
 | Project | What it is | Stack | Live |
 |---|---|---|---|
-| **[ProofSettle](https://github.com/WillIAMShSp/proofsettle)** | Hackathon Winning Project - B2B Damage Checker & Middleman Built On-Chain | TypeScript · Python · Tailwind CSS · Solana | [proofsettle.vercel.app](https://proofsettle.vercel.app) |
+| **[ProofSettle](https://github.com/WillIAMShSp/proofsettle)** | Hackathon Winning Project - B2B Damage Checker & Middleman Built On-Chain | TypeScript · Python · Tailwind · Solana | [proofsettle.vercel.app](https://proofsettle.vercel.app) |
 | **[Flashbear](https://github.com/evanjuszczak/Flashbear)** | Flashcard study app with accounts and saved decks | React · TypeScript · Vite · Tailwind · Supabase | [flashbear.vercel.app](https://flashbear.vercel.app) |
-| **[lmfree](https://github.com/evanjuszczak/lmfree)** | Open-source, easy-to-use logo generator (est. Feb 2025) | TypeScript | [lmfree.vercel.app](https://lmfree.vercel.app) |
+| **[lmfree](https://github.com/evanjuszczak/lmfree)** | Open-source, easy-to-use logo generator (est. Feb 2025) | TypeScript · Tailwind · Supabase | [lmfree.vercel.app](https://lmfree.vercel.app) |
 | **[updated-blackjack](https://github.com/evanjuszczak/updated-blackjack)** | Playable blackjack in the browser (est. 2022) | JavaScript · HTML · CSS · Vite |
 
 ---
