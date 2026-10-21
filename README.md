@@ -61,4 +61,4 @@
 
 ---
 
-<p align="center"><i>Thanks for stopping by — feel free to star a repo or open an issue if something catches your eye. ⭐</i></p>
+<p align="center"><i>Thanks for stopping by, please feel free to star a repo or reach out if something catches your eye. ⭐</i></p>
