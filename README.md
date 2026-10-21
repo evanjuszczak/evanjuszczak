@@ -1,6 +1,6 @@
-<h1 align="center">Hey, I'm Evan 👋</h1>
+<h1 align="center">Hey, I'm Evan Juszczak 👋</h1>
 <p align="center">
-  <b>Developer building web apps with TypeScript, React, and whatever the project needs.</b>
+  <b>Mainly developing web apps with TypeScript, React, and whatever the project needs.</b>
 </p>
 
 <p align="center">
